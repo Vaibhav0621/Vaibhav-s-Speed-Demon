@@ -1,0 +1,39 @@
+# Core Dependencies
+customtkinter==5.2.1
+psutil==5.9.6
+Pillow==10.1.0
+
+# UI Enhancement
+CTkMessagebox==2.5
+CTkToolTip==0.4
+
+# System Utilities
+py-cpuinfo==9.0.0
+GPUtil==1.4.0
+pynvml==11.5.0
+
+# Data & Config
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Async Support
+asyncio==3.4.3
+aiofiles==23.2.1
+
+# Logging & Monitoring
+loguru==0.7.2
+watchdog==3.0.0
+
+# Charts/Graphs
+matplotlib==3.8.2
+
+# Auto-update
+requests==2.31.0
+
+# Development
+pytest==7.4.3
+black==23.11.0
+pylint==3.0.2
+
+schedule==1.2.0
+pywin32==306  # For Windows-specific features

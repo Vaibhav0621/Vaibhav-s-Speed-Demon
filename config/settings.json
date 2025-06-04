@@ -1,0 +1,26 @@
+{
+    "app": {
+        "name": "Speed Demon",
+        "version": "1.0.0",
+        "author": "Vaibhav Chauhan's",
+        "update_check": true
+    },
+    "performance": {
+        "refresh_interval": 5000,
+        "max_processes_display": 10,
+        "auto_optimize": false,
+        "enable_charts": false
+    },
+    "ui": {
+        "theme": "dark",
+        "accent_color": "#00ff88",
+        "window_size": [1200, 800],
+        "start_minimized": false
+    },
+    "optimization": {
+        "default_priority": "high",
+        "cpu_affinity": "all",
+        "gpu_acceleration": true,
+        "memory_compression": true
+    }
+}
